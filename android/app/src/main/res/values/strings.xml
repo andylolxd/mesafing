@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">mesafing</string>
+    <string name="title_activity_main">mesafing</string>
+    <string name="package_name">com.mesafing.app</string>
+    <string name="custom_url_scheme">com.mesafing.app</string>
+</resources>
